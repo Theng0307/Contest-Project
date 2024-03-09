@@ -628,7 +628,7 @@ MeshRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 781860503}
   m_Enabled: 0
-  m_CastShadows: 1
+  m_CastShadows: 3
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
   m_StaticShadowCaster: 0
@@ -1414,11 +1414,11 @@ SceneRoots:
   m_Roots:
   - {fileID: 963194228}
   - {fileID: 705507995}
+  - {fileID: 307972213}
   - {fileID: 2021062420}
   - {fileID: 781860508}
   - {fileID: 825544150}
   - {fileID: 1750127662}
-  - {fileID: 1907875867}
   - {fileID: 310037607}
-  - {fileID: 307972213}
   - {fileID: 699462553}
+  - {fileID: 1907875867}
